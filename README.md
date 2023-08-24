@@ -10,7 +10,7 @@
 | --- | --- | --- |
 “重要”贡献者 | ![Vital Contributor Badge](images/plusone.png) | 发过的 issue 评论中，有超过 100 个都只是点了个赞，或 “+1”。这个按钮真好玩.jpg
 西斯大帝        | ![Sith Lord Badge](images/sithlord.png) |	在主分支上用 git push -f 削除其他人的 commits。
-拖延症患者  	| ![Procrastinator Badge](images/procrastinator.png) |	创建一个仓库，只留一个上书 “init” 的 commit，然后在 5 年内都将其束之高阁。
+拖延症患者  	| ![Procrastinator Badge](images/procrastinator.png) |	创建一个仓库，只留一个上书 “init” 的 commit，然后将其束之高阁长达至少五年之久。
 发放秘密的圣诞老人（Secret Santa）	    | ![Secret Santa Badge](images/secretsanta.png) |	误将某个 Secret 提交到了一个公开的仓库中。
 猴子扳手（Monkey Wrench）	    | ![Monkey Wrench Badge](images/monkeywrench.png) | 直接往主分支提交，然后炸了构建用的 CI/Action。
 嗯，这样没事，大概。      | ![This is Fine Badge](images/thisisfine.png) |	你在你所拥有的一个公开仓库中堆了一千多个开着的 issue。
