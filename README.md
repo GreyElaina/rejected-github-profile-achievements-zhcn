@@ -19,7 +19,7 @@
 耐心是 ao 的，于是你成为了骷髅王	| ![Patient Skeleton Badge](images/patientskeleton.png) | 提交了一个 “修复了 xxx 问题” 的 PR，但你等了两年这个 PR 都没有合进去。
 2 FU	            | ![2 FU Badge](images/2fu.png) |	不会吧不会吧，不会 3202 年了都还有人没开二步认证？
 量子速读    	| ![Speed Reader Badge](images/speedreader.png) |	这是一个行改动数上万的 PR，而你在 15 秒内完成了 review 并给了 approve。
-倒霉倒霉倒霉！！     | ![It's Bad Luck Badge](images/itsbadluck.png) | 在星期五推了提交，并用 Action 部署了；然后在周末把仓库回滚了。~~有没有一种可能，有人大小周/单休？~~
+倒霉倒霉倒霉！！     | ![It's Bad Luck Badge](images/itsbadluck.png) | 在星期五把提交推了上去，并用 Action 部署了；然后，你又在周末 revert 掉了那个提交，真蛋疼。~~有没有一种可能，有人大小周/单休？哦那真是太不幸了……什么，我一周六天四个早八？放过我吧！！？~~
 *在我这它没问题啊？* | ![Works On My Machine Badge](images/worksonmymachine.png) | 对于至少 10 个汇报问题的 issue，你都不曾尝试过复现用户环境。
 来自日志的殴“打” | ![Log This Badge](images/logthis.png) | 选用 Log4j2 的 v2.0 - v2.17 版本作为项目的依赖。
 
