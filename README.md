@@ -1,29 +1,29 @@
-# Rejected GitHub Profile Achievements 😵
+# 不被接受的那些 GitHub Profile 成就们 😵
 
-A collection listing Achievements that were rejected when creating the GitHub Profile Achievements feature.
+这里列举了那些在这个特性设立之初而未被接受的成就（Achievement）设计，图个乐子而已，不必当真 XD。
 
-This repository attempts to list them all.
+这个仓库将尽可能把这些成就全部列举。
 
-## Rejected Achievements
+## 尚未“功成名就”之列表
 
-| Title | Badge (prototype) |  Earned by |
+| 名称 | 徽章 (暂为原型) |  获取途径 |
 | --- | --- | --- |
-Vital Contributor | ![Vital Contributor Badge](images/plusone.png) |	Over 100 issue comments consisting of just "+1" or a thumbs up emoji. 
-Sith Lord	        | ![Sith Lord Badge](images/sithlord.png) |	Wipe out someone else's commits by force pushing to the main branch.
-Procrastinator  	| ![Procrastinator Badge](images/procrastinator.png) |	Created a repository with a single "init" commit with just a README.md. Then never touch it for 5 years.
-Secret Santa	    | ![Secret Santa Badge](images/secretsanta.png) |	Accidentally commit a secret API key in a public repository.
-Monkey Wrench	    | ![Monkey Wrench Badge](images/monkeywrench.png) |	Make a commit directly to the main branch that breaks the build process.
-This is Fine      | ![This is Fine Badge](images/thisisfine.png) |	Over 1,000 open issues on public repositories you own.
-Arborist          | ![Arborist Badge](images/arborist.png) |	Maintain a repository that has at least 150 branches merged but never deleted (keep them around just in case).
-Tee Hee         	| ![Tee Hee Badge](images/teehee.png) |	In a single "minor cleanup" commit to the main branch, change every line of every file in the repository so that all open Pull Requests are unmergeable.
-Patient Skeleton	| ![Patient Skeleton Badge](images/patientskeleton.png) |	Submit a pull request to a public repository that fixes it, but its been open for at least 2 years.
-2 FU	            | ![2 FU Badge](images/2fu.png) |	It's 2023 and you've never enabled 2FA.
-Speed Reader    	| ![Speed Reader Badge](images/speedreader.png) |	Review and approve a pull request that contains over 10,000 lines of code in under 15 seconds.
-It's Bad Luck     | ![It's Bad Luck Badge](images/itsbadluck.png) | Merge a commit on a Friday and deploy it with GitHub Actions, then rollback the commit on the weekend.
-Works On My Machine | ![Works On My Machine Badge](images/worksonmymachine.png) | Suggest user error in at least 10 issue threads without attempting to reproduce end-user runtime environments.
-Log This | ![Log This Badge](images/logthis.png) | Have Log4j2 version 2.0-2.17 as a dependency in your project
+“重要”贡献者 | ![Vital Contributor Badge](images/plusone.png) | 发过的 issue 评论中，有超过 100 个都只是点了个赞，或 “+1”。这个按钮真好玩.jpg
+西斯大帝        | ![Sith Lord Badge](images/sithlord.png) |	在主分支上用 git push -f 削除其他人的 commits。
+拖延症患者  	| ![Procrastinator Badge](images/procrastinator.png) |	创建一个仓库，只留一个上书 “init” 的 commit，然后在 5 年内都将其束之高阁。
+发放秘密的圣诞老人（Secret Santa）	    | ![Secret Santa Badge](images/secretsanta.png) |	误将某个 Secret 提交到了一个公开的仓库中。
+猴子扳手（Monkey Wrench）	    | ![Monkey Wrench Badge](images/monkeywrench.png) | 直接往主分支提交，然后炸了构建用的 CI/Action。
+嗯，这样没事，大概。      | ![This is Fine Badge](images/thisisfine.png) |	你在你所拥有的一个公开仓库中堆了一千多个开着的 issue。
+植“树”达人          | ![Arborist Badge](images/arborist.png) |	你维护的一个项目中有超过 150 个分支没合。基于 “未雨绸缪” 的考虑，谁知道这些什么时候会用到呢？
+嘻，绝不会让你失望口牙         	| ![Tee Hee Badge](images/teehee.png) |	你在题为 “微烈度的清理（minor cleanup）” 的单个提交中，把仓库里每个文件的每一行都改了，现在所有开着的 PR 都没法合了。
+耐心是 ao 的，于是你成为了骷髅王	| ![Patient Skeleton Badge](images/patientskeleton.png) | 提交了一个 “修复了 xxx 问题” 的 PR，但你等了两年这个 PR 都没有合进去。
+2 FU	            | ![2 FU Badge](images/2fu.png) |	不会吧不会吧，不会 3202 年了都还有人没开二步认证？
+量子速读    	| ![Speed Reader Badge](images/speedreader.png) |	这是一个行改动数上万的 PR，而你在 15 秒内完成了 review 并给了 approve。
+不幸的，周末(?)加了班     | ![It's Bad Luck Badge](images/itsbadluck.png) | 在星期五推了提交，并用 Action 部署了；然后在周末把仓库回滚了。~~有没有一种可能，有人大小周/单休？~~
+*在我这它没问题啊？* | ![Works On My Machine Badge](images/worksonmymachine.png) | 对于至少 10 个汇报问题的 issue，你都不曾尝试过复现用户环境。
+来自日志的殴“打” | ![Log This Badge](images/logthis.png) | 选用 Log4j2 的 v2.0 - v2.17 版本作为项目的依赖。
 
-###### Author's Note
-###### This is a joke! PRs welcome
-###### Inspired by [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
-###### Badges hacked together from the fine art at [OpenMoji](https://openmoji.org/)
+###### 来自原作者的话
+###### 只是图个乐子！不过开 PR 的话很欢迎！
+###### 本项目受 [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 启发。
+###### 徽章图片是从 [OpenMoji](https://openmoji.org/) 的优秀作品中拼凑而成的。
